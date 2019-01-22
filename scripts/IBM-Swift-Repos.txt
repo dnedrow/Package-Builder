@@ -45,3 +45,4 @@ Swift-SMTP
 SwiftyRequest
 TypeDecoder
 Package-Builder
+swift-html-entities
